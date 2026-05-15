@@ -1,4 +1,4 @@
-# Lexicon Novel
+# Lexicon | Mobile Novel Platform
 
 Advances in mobile technology have transformed the way people access information and entertainment, including the act of reading novels. Digital platforms offer convenience, accessibility, and portability that physical books cannot match. In light of this trend, the demand for novel-reading apps with modern, intuitive, and user-friendly interfaces is growing. Lexicon Novel project was developed to address this need.
 
